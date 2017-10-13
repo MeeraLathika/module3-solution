@@ -1,0 +1,43 @@
+body{
+	font-size: 1em;
+	font-family: cursive;
+}
+
+.navbar-brand h1{
+	color: #4311f6;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+	text-align: left;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #000;
+}
+
+#menu-header{
+	font-size: 2.5em;
+	margin-bottom: 40px;
+}
+#menu-description{
+	background-color: #bbb;
+	font-size: 1.4em;
+	border: 2px solid #000;
+}
+#menu-sub-head{
+	font-size: 1.4em;
+	margin-top: 7px;
+	margin-bottom: 15px;
+}
+
+#nav-list{
+    text-align: center;
+	background: #E7E7E7;
+	font-size: 1.4em;
+}
+#nav-list li{
+	border-bottom: 1px solid #000;
+}
